@@ -23,6 +23,17 @@ This project uses MongoDB as the database and a Python CRUD module to manage ani
 - Data visualizations
 - Geographic map of selected animal records
 
+## Screenshots
+
+<img width="2536" height="1300" alt="image" src="https://github.com/user-attachments/assets/12620966-7b1f-4016-9f47-81c987742bb2" />
+<img width="2536" height="1298" alt="image" src="https://github.com/user-attachments/assets/b3e539fd-084f-455c-b5cc-117a469c009c" />
+<img width="2538" height="1301" alt="image" src="https://github.com/user-attachments/assets/35b07873-dc86-4965-b1cf-0d657d00370e" />
+<img width="2539" height="1298" alt="image" src="https://github.com/user-attachments/assets/48e3d3c7-03e4-4435-8a0e-67b05aabbfd7" />
+
+
+
+
+
 ## Course Reflection
 
 Q. How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
